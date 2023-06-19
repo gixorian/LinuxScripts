@@ -10,10 +10,9 @@ The script installs the following software using flatpak: <br />
 * WhatsApp
 
 ## Installation:
-
-**sudo wget https://raw.githubusercontent.com/gixorian/LinuxScripts/main/basicSetup.sh** <br />
-**sudo chmod +x basicSetup.sh**
+```sudo wget https://raw.githubusercontent.com/gixorian/LinuxScripts/main/basicSetup.sh``` <br />
+```sudo chmod +x basicSetup.sh```
 
 ## How to run:
 
-**sudo sh basicSetup.sh**
+```sudo sh basicSetup.sh```
