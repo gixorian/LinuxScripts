@@ -8,7 +8,6 @@ echo "Heroic Launcher"
 echo "Sublime"
 echo "Steam"
 echo "WhatsApp"
-echo "NodeJS/NPM"
 echo ""
 echo ""
 
@@ -28,8 +27,6 @@ sudo flatpak install -y flathub com.sublimetext.three
 sudo flatpak install -y flathub com.valvesoftware.Steam
 ## WhatsApp
 sudp flatpak install -y flathub com.github.eneshecan.WhatsAppForLinux
-## NodeJS / NPM
-packagesNeeded='npm'
 echo ""
 echo ""
 
