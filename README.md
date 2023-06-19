@@ -1,6 +1,5 @@
 # Basic Software setup for new Linux Installs
-The script installs the following software using flatpak:
-
+The script installs the following software using flatpak: <br />
 * Discord
 * BitWarden
 * Google Chrome
@@ -12,10 +11,9 @@ The script installs the following software using flatpak:
 
 ## Installation:
 
-sudo wget https://raw.githubusercontent.com/gixorian/LinuxScripts/main/basicSetup.sh
-
-sudo chmod +x basicSetup.sh
+**sudo wget https://raw.githubusercontent.com/gixorian/LinuxScripts/main/basicSetup.sh** <br />
+**sudo chmod +x basicSetup.sh**
 
 ## How to run:
 
-sudo sh basicSetup.sh
+**sudo sh basicSetup.sh**
